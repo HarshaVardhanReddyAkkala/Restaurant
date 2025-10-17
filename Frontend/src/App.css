@@ -1,0 +1,43 @@
+
+.figure-row {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  padding: 40px 20px;
+  flex-wrap:wrap;
+}
+
+.figure-row figure {
+  text-align: center;
+  width: 300px;
+}
+
+.figure-row img {
+  width: 100%;
+  border-radius: 50%;
+  height: auto;
+}
+
+.figure-row figcaption {
+  margin-top: 10px;
+}
+
+.figure-row h3 {
+  font-size: 1.2rem;
+  margin: 10px 0 5px;
+}
+
+.figure-row p {
+  font-size: 0.9rem;
+  color: #555;
+}
+.Reddy{
+  text-align: center;
+
+}
+.Harsha{
+  text-align: center;
+}
+.name{
+text-align: center;
+}
